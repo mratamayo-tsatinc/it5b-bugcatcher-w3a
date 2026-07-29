@@ -1,14 +1,14 @@
 const EXERCISES = [
-	'CaseTest1.java',
-	'CaseTest2.java',
-	'CaseTest3.java',
-	'CaseTest4.java',
-	'CaseTest5.java',
-	'CaseTest6.java',
-	'CaseTest7.java',
-	'CaseTest8.java',
-	'CaseTest9.java',
-	'CaseTest10.java'
+	'OperatorTest1.java',
+	'OperatorTest2.java',
+	'OperatorTest3.java',
+	'OperatorTest4.java',
+	'OperatorTest5.java',
+	'OperatorTest6.java',
+	'OperatorTest7.java',
+	'OperatorTest8.java',
+	'OperatorTest9.java',
+	'OperatorTest10.java'
 ];
 
 let studentDatabase = [];
